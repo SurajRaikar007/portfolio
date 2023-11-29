@@ -14,7 +14,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     height: 60px;
-    background-color:  #FFBB23;
+    background-color:  rgb(0, 115, 255);
     color: white;
     padding:2px 30px;
 }
@@ -90,7 +90,7 @@ span{
 }
 
 #leftbtn button{
-    background-color:#FFBB23;
+    background-color:#23abff;
     color: white;
     border-radius: 8px;
     padding: 5px 10px;
@@ -152,7 +152,7 @@ span:hover{
 
 footer{
     height: 50px;
-    background-color: #FFBB23;
+    background-color: rgb(35, 189, 255);
     display: flex;
     gap: 30px;
     justify-content: center;
